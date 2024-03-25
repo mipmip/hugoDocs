@@ -18,7 +18,8 @@ The `block` keyword allows you to define the outer shell of your pages' one or m
 
 ## Base template lookup order
 
-The base template lookup order closely follows that of the template it applies to (e.g. `_default/list.html`).
+The base template lookup order closely follows that of the template it applies t
+o (e.g. `_default/list.html`).
 
 See [Template Lookup Order](/templates/lookup-order/) for details and examples.
 
